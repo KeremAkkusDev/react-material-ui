@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiCheckBox } from "./CheckBox/MuiCheckBox";
+import { MuiSwitch } from "./Switch/MuiSwitch";
 
 function App() {
   return <div className="App">
-    <MuiCheckBox/>
+    <MuiSwitch/>
   </div>;
 }
 
