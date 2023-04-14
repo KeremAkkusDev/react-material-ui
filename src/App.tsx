@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiButton } from "./Button/MuiButton";
+import { MuiButtonGroup } from "./ButtonGroup/MuiButtonGroup";
 
 function App() {
   return <div className="App">
-    <MuiButton/>
+    <MuiButtonGroup/>
   </div>;
 }
 
