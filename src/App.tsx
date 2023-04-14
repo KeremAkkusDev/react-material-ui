@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiSelect } from "./Select/MuiSelect";
+import { MuiRadioButton } from "./RadioButton/MuiRadioButton";
 
 function App() {
   return <div className="App">
-    <MuiSelect/>
+    <MuiRadioButton/>
   </div>;
 }
 
