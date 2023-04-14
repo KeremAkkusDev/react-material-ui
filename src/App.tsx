@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiTextField } from "./TextField/MuiTextField";
+import { MuiSelect } from "./Select/MuiSelect";
 
 function App() {
   return <div className="App">
-    <MuiTextField/>
+    <MuiSelect/>
   </div>;
 }
 
