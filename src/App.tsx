@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiToggleButton } from "./ToggleButton/MuiToggleButton";
+import { MuiTextField } from "./TextField/MuiTextField";
 
 function App() {
   return <div className="App">
-    <MuiToggleButton/>
+    <MuiTextField/>
   </div>;
 }
 
