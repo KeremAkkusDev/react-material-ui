@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiSwitch } from "./Switch/MuiSwitch";
+import { MuiRating } from "./Rating/MuiRating";
 
 function App() {
   return <div className="App">
-    <MuiSwitch/>
+    <MuiRating/>
   </div>;
 }
 
