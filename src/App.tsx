@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiLayout } from "./Layout/MuiLayout";
+import { MuiGrid } from "./Grid/MuiGrid";
 
 function App() {
   return <div className="App">
-    <MuiLayout/>
+    <MuiGrid/>
   </div>;
 }
 
