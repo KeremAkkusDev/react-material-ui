@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiLink } from "./Link/MuiLink";
+import { MuiBreadcrumbs } from "./Breadcrumbs/MuiBreadcrumbs";
 
 function App() {
   return <div className="App">
-    <MuiLink/>
+    <MuiBreadcrumbs/>
   </div>;
 }
 
