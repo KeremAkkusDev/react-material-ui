@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiCard } from "./Card/MuiCard";
+import { MuiAccordion } from "./Accordion/MuiAccordion";
 
 function App() {
   return <div className="App">
-    <MuiCard/>
+    <MuiAccordion/>
   </div>;
 }
 
