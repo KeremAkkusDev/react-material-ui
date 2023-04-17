@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiRating } from "./Rating/MuiRating";
+import { MuiAutocomplete } from "./Autocomplete/MuiAutocomplete";
 
 function App() {
   return <div className="App">
-    <MuiRating/>
+    <MuiAutocomplete/>
   </div>;
 }
 
