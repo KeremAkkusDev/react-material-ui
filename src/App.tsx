@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiNavbar } from "./Navbar/MuiNavbar";
+import { MuiLink } from "./Link/MuiLink";
 
 function App() {
   return <div className="App">
-    <MuiNavbar/>
+    <MuiLink/>
   </div>;
 }
 
