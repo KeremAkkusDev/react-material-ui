@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiDrawer } from "./Drawer/MuiDrawer";
+import { MuiSpeedDial } from "./SpeedDial/MuiSpeedDial";
 
 function App() {
   return <div className="App">
-    <MuiDrawer/>
+    <MuiSpeedDial/>
   </div>;
 }
 
