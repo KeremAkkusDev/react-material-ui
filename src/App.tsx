@@ -1,9 +1,9 @@
 import "./App.css";
-import { MuiAccordion } from "./Accordion/MuiAccordion";
+import { MuiImageList } from "./ImageList/MuiImageList";
 
 function App() {
   return <div className="App">
-    <MuiAccordion/>
+    <MuiImageList/>
   </div>;
 }
 
