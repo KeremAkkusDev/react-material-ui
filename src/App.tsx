@@ -1,10 +1,10 @@
 import "./App.css";
-import { MuiChip } from "./Chip/MuiChip";
+import { MuiTooltip } from "./Tooltip/MuiTooltip";
 
 function App() {
   return (
     <div className="App">
-      <MuiChip />
+      <MuiTooltip />
     </div>
   );
 }
