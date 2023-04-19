@@ -1,10 +1,12 @@
 import "./App.css";
-import { MuiSpeedDial } from "./SpeedDial/MuiSpeedDial";
+import { MuiBottomNavigation } from "./BottomNavigation/MuiBottomNavigation";
 
 function App() {
-  return <div className="App">
-    <MuiSpeedDial/>
-  </div>;
+  return (
+    <div className="App">
+      <MuiBottomNavigation />
+    </div>
+  );
 }
 
 export default App;
