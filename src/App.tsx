@@ -1,10 +1,10 @@
 import "./App.css";
-import { MuiBottomNavigation } from "./BottomNavigation/MuiBottomNavigation";
+import { MuiAvatar } from "./Avatar/MuiAvatar";
 
 function App() {
   return (
     <div className="App">
-      <MuiBottomNavigation />
+      <MuiAvatar />
     </div>
   );
 }
