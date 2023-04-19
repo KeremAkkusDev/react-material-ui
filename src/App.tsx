@@ -1,10 +1,10 @@
 import "./App.css";
-import { MuiBadge } from "./Badge/MuiBadge";
+import { MuiList } from "./List/MuiList";
 
 function App() {
   return (
     <div className="App">
-      <MuiBadge />
+      <MuiList />
     </div>
   );
 }
