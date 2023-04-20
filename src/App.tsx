@@ -1,10 +1,10 @@
 import "./App.css";
-import { MuiSkeleton } from "./Skeleton/MuiSkeleton";
+import { MuiLoadingButton } from "./LoadingButton/MuiLoadingButton";
 
 function App() {
   return (
     <div className="App">
-      <MuiSkeleton />
+      <MuiLoadingButton />
     </div>
   );
 }
