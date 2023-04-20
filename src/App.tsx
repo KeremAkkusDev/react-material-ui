@@ -1,10 +1,10 @@
 import "./App.css";
-import { MuiDialog } from "./Dialog/MuiDialog";
+import { MuiProgress } from "./Progress/MuiProgress";
 
 function App() {
   return (
     <div className="App">
-      <MuiDialog />
+      <MuiProgress />
     </div>
   );
 }
