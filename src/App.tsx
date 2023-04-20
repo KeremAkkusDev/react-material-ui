@@ -1,10 +1,10 @@
 import "./App.css";
-import { MuiAlert } from "./Alert/MuiAlert";
+import { MuiSnackbar } from "./Snackbar/MuiSnackbar";
 
 function App() {
   return (
     <div className="App">
-      <MuiAlert />
+      <MuiSnackbar />
     </div>
   );
 }
