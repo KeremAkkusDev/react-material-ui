@@ -1,10 +1,10 @@
 import "./App.css";
-import { MuiSnackbar } from "./Snackbar/MuiSnackbar";
+import { MuiDialog } from "./Dialog/MuiDialog";
 
 function App() {
   return (
     <div className="App">
-      <MuiSnackbar />
+      <MuiDialog />
     </div>
   );
 }
