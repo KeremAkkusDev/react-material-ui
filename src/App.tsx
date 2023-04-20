@@ -1,10 +1,10 @@
 import "./App.css";
-import { MuiTable } from "./Table/MuiTable";
+import { MuiAlert } from "./Alert/MuiAlert";
 
 function App() {
   return (
     <div className="App">
-      <MuiTable />
+      <MuiAlert />
     </div>
   );
 }
