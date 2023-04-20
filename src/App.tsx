@@ -1,10 +1,10 @@
 import "./App.css";
-import { MuiTooltip } from "./Tooltip/MuiTooltip";
+import { MuiTable } from "./Table/MuiTable";
 
 function App() {
   return (
     <div className="App">
-      <MuiTooltip />
+      <MuiTable />
     </div>
   );
 }
