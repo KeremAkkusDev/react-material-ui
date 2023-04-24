@@ -18,7 +18,6 @@ export const MuiTabs = () => {
             indicatorColor="secondary"
             variant="scrollable"
             scrollButtons="auto"
-            centered
           >
             <Tab
               label="Item One"
